@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Tensorflow
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Capable of developing, DL models using TF 2+."
+  url: "https://tensorflow.org/"
+
+- name: Pytorch
+  logo: "/images/sections/skills/go.png"
+  summary: "Using as the main library for professional and personal project development."
+  url: "https://pytorch.org/"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."

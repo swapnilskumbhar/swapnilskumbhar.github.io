@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Griffyn Robotech
+    url: "https://www.griffyn.io"
+    location: Pune, India
+    # company overview
+    overview: Working in logistics domain
+  positions:
+  - designation: Data Scientist
+    start: Apr 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop algorithms for time series forecasting
+    - Designed, developed and deployed an api for frauds prediction after delivery.
+
+- company:
+    name: Nitor Infotech
+    url: "https://www.nitorinfotech.com"
+    location: Pune, India
+    overview: Worked in CV and NLP domain.
+  positions:
+  - designation: Data Scientist
+    start: Apr 2019
+    end: Apr 2021
+    responsibilities:
+    - Built Chatbots in various domain for various customers
+    - Built invoice automation system which supports more than 2000 vendors.
+- company:
+    name: CDAC R&D
+    url: "https://www.cdac.in"
+    location: Pune, India
+    overview: Worked in NLP domain.
+  positions:
+  - designation: Project Engineer, Applied AI
+    start: Feb 2018
+    end: March 2029
+    responsibilities:
+    - Built Translation systems to translate between indian labguages.
+    - was part of core development team which built web application which uses Translation memory to translate between language pairs named "Kanthastha". 

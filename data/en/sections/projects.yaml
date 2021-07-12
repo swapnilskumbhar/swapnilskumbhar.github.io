@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Dino DL
+  logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "July 2021"
+  repo: https://github.com/swapnilskumbhar/dino_dl # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Played chrome dino game using image classification algorithm
+  tags: ["hobby"]
+
+- name: NN Metadata
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2021"
+  repo: https://github.com/swapnilskumbhar/nn_metadata
+  #url: ""
+  summary: Explored ways using which we can give metadata to CNNs
+  tags: ["hobby"]
+
+- name: Char Space RNN
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "Apr 2021"
+  repo: https://github.com/swapnilskumbhar/char_space_rnn/
+  summary: Trained a seq2seq model which takes input sentence without any spaces and gives output same sentence with spaces gicven at appropriate positions
+  tags: ["hobby"]
+
+- name: Center stage
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "May 2021"
+  repo: https://github.com/swapnilskumbhar/center_stage/
+  summary: Implemented my own logic for apple's center stage algorithm using python and opencv.
+  tags: ["hobby"]

@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Rising Star
+  image: /images/sections/achievements/presenter.jpg
+  summary: Got the award for outstanding performance in project deliverables.
+
+- title: Award Winner
+  image: /images/sections/achievements/woman-winner.jpg
+  summary: Won 10+ awards in regional competitions during Engineering

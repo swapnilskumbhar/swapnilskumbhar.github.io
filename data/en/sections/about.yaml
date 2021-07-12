@@ -1,0 +1,57 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Tensorflow & Algoexpert Certified Developer | Deep Learning Practitioner | Data Scientist
+# your company information
+company:
+  name: 
+  url: "https://www.linkedin.com/in/swapnilskumbhar"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/swapnil_kumbhar_resume.pdf"
+
+# a summary about you
+summary: 'I have 3 years of working experience working in Data Science field. I am very interested in ML & DL.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/swapnilskumbhar"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.github.com/swapnilskumbhar"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.github.com/swapnilskumbhar"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: DS & Algos
+  percentage: 85
+  color: blue
+- name: Python
+  percentage: 90
+  color: yellow
+- name: ML Libraries
+  percentage: 90
+  color: blue
+- name: DL Libraries
+  percentage: 90
+  color: yellow
+- name: Cloud Tech
+  percentage: 90
+  color: blue
+- name: DS
+  percentage: 90
+  color: blue
