@@ -1,4 +1,4 @@
-baseURL: https://swapnilskumbhar.github.io
+baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
 title: "Swapnil Kumbhar"
@@ -37,4 +37,4 @@ params:
   newsletter:
     enable: false
   
-  background: "images/author/default-background.jpg"
+  background: "/images/author/default-background.jpg"
