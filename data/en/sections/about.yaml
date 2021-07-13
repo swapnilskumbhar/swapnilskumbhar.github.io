@@ -52,6 +52,6 @@ softSkills:
 - name: Cloud Tech
   percentage: 90
   color: blue
-- name: DS
-  percentage: 90
-  color: blue
+- name: Leadership
+  percentage: 85
+  color: yellow

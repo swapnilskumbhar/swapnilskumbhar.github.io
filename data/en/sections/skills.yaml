@@ -13,12 +13,12 @@ section:
 skills:
 - name: Tensorflow
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of developing, DL models using TF 2+."
+  summary: "Capable of developing DL models using TF 2+."
   url: "https://tensorflow.org/"
 
 - name: Pytorch
   logo: "/images/sections/skills/go.png"
-  summary: "Using as the main library for professional and personal project development."
+  summary: "Using as the primary library for professional and personal project development."
   url: "https://pytorch.org/"
 
 - name: Cloud Computing

@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Diploma in Advanced Computing
+  icon: fa-user-graduate
+  timeframe: 2017-2018
+  institution:
+    name: Sunbeam Institute of Information Technology
+    url: "#"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.65
+    outOf: 10
+- name: B.Tech. in Electronics and Telecommunications
+  icon: fa-graduation-cap
+  timeframe: 2013-2017
+  institution:
+    name: Rajarambapu Institute of Technology
+    url: "#"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.6
+    outOf: 10
+  extracurricularActivities: #(optional)
+  - Won 10+ regional competitions on programming, robotics and research paper presentation.  
+  - Conducted and managed competitions in college at university levels
+- name: Higher Secondary School
+  icon: fa-university
+  timeframe: 2011-2013
+  institution:
+    name: S. G. M. College, Karad
+    url: "#"
+  grade: #(optional)
+    scale: Percentage
+    achieved: 76.5
+    outOf: 100
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2001-2011
+  institution:
+    name: S. G. M. School, Karad
+  grade: #(optional)
+    scale: Percenage
+    achieved: 86.5
+    outOf: 100
