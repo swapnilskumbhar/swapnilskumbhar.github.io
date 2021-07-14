@@ -18,7 +18,7 @@ company:
 resume: "files/swapnil_kumbhar_resume.pdf"
 
 # a summary about you
-summary: 'I have 3 years of working experience working in Data Science field. I am very interested in ML & DL.'
+summary: 'I have 3+ years of working experience in Data Science field. I am very interested in ML & DL. I believe DL is changing the world rapidly and I want to be part of that journey.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -28,10 +28,19 @@ socialLinks:
   url: "https://www.github.com/swapnilskumbhar"
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "https://www.github.com/swapnilskumbhar"
+  url: "https://www.linkedin.com/in/swapnilskumbhar"
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "https://www.github.com/swapnilskumbhar"
+  url: "https://www.twitter.com/@swapnil_potter"
+
+- name: AlgoExpert Certificate
+  icon: "fab fa-twitter"
+  url: "https://certificate.algoexpert.io/AlgoExpert%20Certificate%20AE-bbc8ba83cb"
+
+- name: Tensorflow Certified Network
+  icon: "fab fa-twitter"
+  url: "https://developers.google.com/certification/directory/tensorflow"
+
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -52,6 +61,6 @@ softSkills:
 - name: Cloud Tech
   percentage: 90
   color: blue
-- name: Leadership
+- name: Design Patterns
   percentage: 85
   color: yellow

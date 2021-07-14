@@ -24,7 +24,6 @@ projects:
 - name: Dino DL
   logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "July 2021"
   repo: https://github.com/swapnilskumbhar/dino_dl # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Played chrome dino game using image classification algorithm
@@ -33,7 +32,6 @@ projects:
 - name: NN Metadata
   logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: "Jun 2021"
   repo: https://github.com/swapnilskumbhar/nn_metadata
   #url: ""
   summary: Explored ways using which we can give metadata to CNNs
@@ -42,7 +40,6 @@ projects:
 - name: Char Space RNN
   logo: /images/sections/projects/toha.png
   role: Developer
-  timeline: "Apr 2021"
   repo: https://github.com/swapnilskumbhar/char_space_rnn/
   summary: Trained a seq2seq model which takes input sentence without any spaces and gives output same sentence with spaces gicven at appropriate positions
   tags: ["hobby"]
@@ -50,7 +47,61 @@ projects:
 - name: Center stage
   logo: /images/sections/projects/toha.png
   role: Developer
-  timeline: "May 2021"
   repo: https://github.com/swapnilskumbhar/center_stage/
   summary: Implemented my own logic for apple's center stage algorithm using python and opencv.
   tags: ["hobby"]
+
+- name: Invoice Automation
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: Automate manual data entry from invoice to SAP system.
+  tags: ["professional"]
+
+- name: Chatbots
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: Build and Deployed chatbots in ITSM and Event management domain using RASA, RasaX and Botpress. 
+  tags: ["professional"]
+
+- name: Car Damage Detection System
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: Build and Deployed Car Damage Detection System using Tensorflow Object Detection API.
+  tags: ["professional"]
+
+- name: Floor Plan Analysis
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: Build and Deployed Object detection model to analyse floor plan for construction company to calculate Bill Of materials automatically.
+  tags: ["professional"]
+
+- name: Neural Machine Translation
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: Build and Deployed Translation system to translate between indian languages.
+  tags: ["professional"]
+
+- name: Kanthasth
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: Build system which uses translation memory to translate documents for the translators of Govt. Of India.
+  tags: ["professional"]
+
+- name: Time Series Forecasting
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: using stats, ML models to forecast prices and volumes in Logistics Domain. 
+  tags: ["professional"]
+
+- name: Fraud Detection and Analysis
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: using stats, ML to understand Frauds happening after delivery. 
+  tags: ["professional"]
+
+
+- name: Autonomous Vehicle Tracking System
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  summary: using Arduino, GSM and GPS modules build a system which updates live location to server. Mainly designed for regional Govt. Buses.
+  tags: ["academic"]
