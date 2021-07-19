@@ -12,22 +12,22 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: ML Libraries
-  logo: "/images/sections/skills/kubernetes.png"
+  logo: "/images/sections/skills/pytorch.png"
   summary: "Experience in developing and deploying models in scikit-learn, Pytorch, Tensorflow. "
 
 - name: Python Libraries
-  logo: "/images/sections/skills/go.png"
+  logo: "/images/sections/skills/python.png"
   summary: "Experience in using libraries Numpy, Pandas, Matplotlib, Plotly, lxml"
   url: "https://pytorch.org/"
 
 - name: Natural Language Processing
-  logo: "/images/sections/skills/cloud.png"
+  logo: "/images/sections/skills/chatbot.png"
   summary: "Worked on Machine Translation system for indian languages. Created and Deployed chatbots in various domains. Libraries used :- TF NMT, Rasa, RasaX, Spacy, NLTK, Tensorflow."
 
 - name: Computer Vision
-  logo: "/images/sections/skills/cloud.png"
+  logo: "/images/sections/skills/open_cv.png"
   summary: "Worked on projects Car Damage Detection system, Detecting pneumonia from chest X-Rays, Detecting objects from floor plans, Invoice Automation. Libraries used :- TF Object detection api, OpenCV, Numpy, Tesseract, Pytorch, Tensorflow."
 
 - name: Tabular Data
-  logo: "/images/sections/skills/cloud.png"
+  logo: "/images/sections/skills/tabular.jpg"
   summary: "Worked on forecasting volumes and prices in Logistics domain. Worked on developing algorithm to find frauds in logistics domain. , Libraries Used :- Prophet, ARIMA models, darts, Scikit learn. "

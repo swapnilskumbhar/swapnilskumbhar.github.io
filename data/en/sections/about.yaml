@@ -34,12 +34,8 @@ socialLinks:
   url: "https://www.twitter.com/@swapnil_potter"
 
 - name: AlgoExpert Certificate
-  icon: "fab fa-twitter"
+  icon: "fas fa-certificate"
   url: "https://certificate.algoexpert.io/AlgoExpert%20Certificate%20AE-bbc8ba83cb"
-
-- name: Tensorflow Certified Network
-  icon: "fab fa-twitter"
-  url: "https://developers.google.com/certification/directory/tensorflow"
 
 
 # your soft skills
