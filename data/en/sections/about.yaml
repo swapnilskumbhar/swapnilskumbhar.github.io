@@ -8,9 +8,9 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Tensorflow & Algoexpert Certified Developer | Deep Learning Practitioner | Data Scientist
+designation: Deep Learning engineer
 # your company information
-company:
+company: Griffyn Robotech
   name: 
   url: "https://www.linkedin.com/in/swapnilskumbhar"
 
@@ -18,7 +18,8 @@ company:
 resume: "files/swapnil_kumbhar_resume.pdf"
 
 # a summary about you
-summary: 'I have 3+ years of working experience in Data Science field. I am very interested in ML & DL. I believe DL is changing the world rapidly and I want to be part of that journey.'
+summary: 'TF and Algoexpert certified Data Scientist with 4 years of experience working in domains Natural Language Processing, Computer Vision, Machine Learning. Highly motivated and passionate individual,
+   with keen interest into deep learning and its applications. '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
