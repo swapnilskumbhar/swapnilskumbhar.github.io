@@ -23,11 +23,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    project 1:
-      - Writing, Training and deploying custom deep learning algorithms for segmentation ,object detection and classification of defects present on electronic devices.
-    project 2:
-      - Design, Develop and Deploy custom built algorithms for time series forecasting.
-    - Design, Develop and Deploy custom built algorithms for Frauld Detection.
+    - Writing, Training and deploying custom deep learning algorithms for segmentation ,object detection and classification of defects present on electronic devices.
+    - Design, Develop and Deploy custom built algorithms for time series forecasting and Fraud Detection.
 - company:
     name: Nitor Infotech
     url: "https://www.nitorinfotech.com"
